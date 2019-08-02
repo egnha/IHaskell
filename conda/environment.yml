@@ -1,0 +1,15 @@
+name: ihaskell
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cairo
+  - ipywidgets
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - jupyterlab
+  - libmagic
+  - pango
+  - pkg-config
+  - zeromq
