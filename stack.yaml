@@ -47,3 +47,6 @@ nix:
     - pkgconfig
     - zeromq
     - zlib
+
+extra-lib-dirs:
+    - /usr/lib
